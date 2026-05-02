@@ -1,6 +1,4 @@
-# Predictive Modeling of Adult Weight — NHIS Dataset  <a href="https://colab.research.google.com/github/arch-sci/ml-weight-prediction/blob/main/ml-weight-prediction.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-</a>
+# Predictive Modeling of Adult Weight — NHIS Dataset  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arch-sci/ml-weight-prediction/blob/main/ml-weight-prediction.ipynb)
 
 **Machine Learning course project | EDHEC Business School**
 
