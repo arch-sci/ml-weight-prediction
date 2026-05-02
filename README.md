@@ -1,5 +1,3 @@
-# ml-weight-prediction
-
 # Predictive Modeling of Adult Weight — NHIS Dataset
 
 **Machine Learning course project | EDHEC Business School**
