@@ -1,7 +1,7 @@
-# Predictive Modeling of Adult Weight — NHIS Dataset
+# Predictive Modeling of Adult Weight — NHIS Dataset  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arch-sci/ml-weight-prediction/blob/main/ml-weight-prediction.ipynb)
 
 **Machine Learning course project | EDHEC Business School**
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arch-sci/ml-weight-prediction/blob/main/ml-weight-prediction.ipynb)
+
 
 Predicting adult body weight from 600+ health and demographic survey features 
 (NHIS dataset), with a focus on robust preprocessing and systematic model comparison.
