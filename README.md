@@ -1,4 +1,4 @@
-# Predictive Modeling of Adult Weight — NHIS Dataset  <a href="https://colab.research.google.com/github/TON-USERNAME/ml-weight-prediction/blob/main/notebook.ipynb" target="_blank">
+# Predictive Modeling of Adult Weight — NHIS Dataset  <a href="https://colab.research.google.com/github/arch-sci/ml-weight-prediction/blob/main/ml-weight-prediction.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
@@ -36,6 +36,9 @@ reliable preprocessing pipeline as about tuning models.
 | Stacking (Lasso + XGB) | 220.40 |
 | Physics Benchmark (Height, BMI, Age, Sex) | 239.72 |
 | Ridge / Lasso | ~308 |
+
+The pipeline ranked 2nd in class on the held-out test set, within less than 1 MSE of the top submission.
+
 
 ### Key findings
 - The relationship between survey features and weight is fundamentally 
