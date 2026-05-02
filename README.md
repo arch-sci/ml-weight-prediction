@@ -32,8 +32,13 @@ reliable preprocessing pipeline as about tuning models.
 | **XGBoost** | **213.26** |
 | RandomForest | 216.80 |
 | Stacking (Lasso + XGB) | 220.40 |
-| Physics Benchmark (Height, BMI, Age, Sex) | 239.72 |
-| Ridge / Lasso | ~308 |
+| PhysicsBenchmark | 239.72 |
+| Ridge | 307.63 |
+| Lasso | 309.62 |
+| ElasticNet | 315.38 |
+| AdaBoost | 330.19 |
+| SGDescent | 353.26 |
+| Ridge + PCA | 1006.21 |
 
 The pipeline ranked 2nd in class on the held-out test set, within less than 1 MSE of the top submission.
 
