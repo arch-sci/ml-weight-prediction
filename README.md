@@ -18,7 +18,7 @@ reliable preprocessing pipeline as about tuning models.
 ### Custom Preprocessing
 - **GapJunkTransformer** : custom sklearn transformer that detects survey junk 
   codes by identifying numerical gaps in feature distributions, then replaces 
-  them with NaN — fitted on train folds only to prevent data leakage
+  them with NaN — fitted on train folds only to prevent data leakage (see Report p12 for visualisation of junk clusters)
 - **LowNullColumnSelector** : drops features with >50% missing values per fold
 - Median/mode imputation, target encoding for high-cardinality categoricals, 
   OneHotEncoding with min_frequency=1% to control dimensionality
